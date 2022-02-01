@@ -2,7 +2,6 @@ body {
     margin: 0;
 }
 
-
 .container {
 	display: flex;
 	justify-content: center;
@@ -10,7 +9,6 @@ body {
     flex-direction: row;
     padding-top: 50px
 }
-
 
 .heading {
     display: flex;
